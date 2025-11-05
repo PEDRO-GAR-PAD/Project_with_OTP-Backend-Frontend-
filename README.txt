@@ -27,10 +27,9 @@ npm install
 
 Ejecutar el servidor de desarrollo:
 
-npm start
+npm run dev
 
-
-La aplicación se abrirá automáticamente en http://localhost:3000.
+La aplicación se abrirá automáticamente en http://localhost:5175/.
 
 Ejemplo de flujo de Login + OTP
 
